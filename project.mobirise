@@ -23,10 +23,10 @@
         "display4Font": "Space Grotesk",
         "display4Size": 1.1,
         "isRoundedButtons": true,
-        "isGhostButtonBorder": true,
+        "isGhostButtonBorder": false,
         "underlinedLinks": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true
+        "isScrollToTopButton": false
       },
       "titlePreset": "Counseling Expert",
       "nameSelectPreset": "counseling-expert",
