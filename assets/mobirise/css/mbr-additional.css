@@ -702,11 +702,12 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-uDfPneUwjs .navbar-dropdown {
-  position: relative !important;
+.cid-uDfPneUwjs {
+  z-index: 1000;
+  width: 100%;
 }
-.cid-uDfPneUwjs .navbar-dropdown {
-  position: absolute !important;
+.cid-uDfPneUwjs nav.navbar {
+  position: fixed;
 }
 @media (min-width: 992px) {
   .cid-uDfPneUwjs .nav-dropdown {
@@ -1064,6 +1065,7 @@ a {
 }
 .cid-uDfPneUwjs .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-uDfPneUwjs a.nav-link {
   display: flex;
@@ -1190,11 +1192,12 @@ a {
 .cid-uDfbOpSumv .mbr-section-subtitle DIV {
   text-align: left;
 }
-.cid-uDfPneUwjs .navbar-dropdown {
-  position: relative !important;
+.cid-uDfPneUwjs {
+  z-index: 1000;
+  width: 100%;
 }
-.cid-uDfPneUwjs .navbar-dropdown {
-  position: absolute !important;
+.cid-uDfPneUwjs nav.navbar {
+  position: fixed;
 }
 @media (min-width: 992px) {
   .cid-uDfPneUwjs .nav-dropdown {
@@ -1552,6 +1555,7 @@ a {
 }
 .cid-uDfPneUwjs .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-uDfPneUwjs a.nav-link {
   display: flex;
@@ -1606,11 +1610,12 @@ a {
 .cid-uDfk1SnT5g .mbr-section-subtitle DIV {
   text-align: left;
 }
-.cid-uDfPneUwjs .navbar-dropdown {
-  position: relative !important;
+.cid-uDfPneUwjs {
+  z-index: 1000;
+  width: 100%;
 }
-.cid-uDfPneUwjs .navbar-dropdown {
-  position: absolute !important;
+.cid-uDfPneUwjs nav.navbar {
+  position: fixed;
 }
 @media (min-width: 992px) {
   .cid-uDfPneUwjs .nav-dropdown {
@@ -1968,6 +1973,7 @@ a {
 }
 .cid-uDfPneUwjs .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-uDfPneUwjs a.nav-link {
   display: flex;
@@ -2022,11 +2028,12 @@ a {
 .cid-uDfoSwVGWr .mbr-section-subtitle DIV {
   text-align: left;
 }
-.cid-uDfPneUwjs .navbar-dropdown {
-  position: relative !important;
+.cid-uDfPneUwjs {
+  z-index: 1000;
+  width: 100%;
 }
-.cid-uDfPneUwjs .navbar-dropdown {
-  position: absolute !important;
+.cid-uDfPneUwjs nav.navbar {
+  position: fixed;
 }
 @media (min-width: 992px) {
   .cid-uDfPneUwjs .nav-dropdown {
@@ -2384,6 +2391,7 @@ a {
 }
 .cid-uDfPneUwjs .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-uDfPneUwjs a.nav-link {
   display: flex;
