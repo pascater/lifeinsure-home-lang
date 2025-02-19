@@ -731,8 +731,6 @@ a {
 .cid-uDfINkzyiX .item-img {
   width: 100%;
   border-radius: 3rem;
-  height: 100%;
-  object-fit: cover;
 }
 .cid-uDfINkzyiX .item:focus,
 .cid-uDfINkzyiX span:focus {
