@@ -708,12 +708,6 @@ a {
 .cid-uDfPneUwjs .navbar-dropdown {
   position: absolute !important;
 }
-@media (min-width: 992px) {
-  .cid-uDfPneUwjs .nav-dropdown {
-    margin-top: 2rem;
-    padding-bottom: 1rem;
-  }
-}
 .cid-uDfPneUwjs .navbar {
   min-height: 140px;
   transition: all 0.3s;
@@ -938,6 +932,11 @@ a {
 .cid-uDfPneUwjs .container {
   display: flex;
   margin: auto;
+}
+@media (min-width: 992px) {
+  .cid-uDfPneUwjs .container {
+    flex-wrap: nowrap;
+  }
 }
 .cid-uDfPneUwjs .iconfont-wrapper {
   color: #ffffff !important;
@@ -1196,12 +1195,6 @@ a {
 .cid-uDfPneUwjs .navbar-dropdown {
   position: absolute !important;
 }
-@media (min-width: 992px) {
-  .cid-uDfPneUwjs .nav-dropdown {
-    margin-top: 2rem;
-    padding-bottom: 1rem;
-  }
-}
 .cid-uDfPneUwjs .navbar {
   min-height: 140px;
   transition: all 0.3s;
@@ -1426,6 +1419,11 @@ a {
 .cid-uDfPneUwjs .container {
   display: flex;
   margin: auto;
+}
+@media (min-width: 992px) {
+  .cid-uDfPneUwjs .container {
+    flex-wrap: nowrap;
+  }
 }
 .cid-uDfPneUwjs .iconfont-wrapper {
   color: #ffffff !important;
@@ -1612,12 +1610,6 @@ a {
 .cid-uDfPneUwjs .navbar-dropdown {
   position: absolute !important;
 }
-@media (min-width: 992px) {
-  .cid-uDfPneUwjs .nav-dropdown {
-    margin-top: 2rem;
-    padding-bottom: 1rem;
-  }
-}
 .cid-uDfPneUwjs .navbar {
   min-height: 140px;
   transition: all 0.3s;
@@ -1842,6 +1834,11 @@ a {
 .cid-uDfPneUwjs .container {
   display: flex;
   margin: auto;
+}
+@media (min-width: 992px) {
+  .cid-uDfPneUwjs .container {
+    flex-wrap: nowrap;
+  }
 }
 .cid-uDfPneUwjs .iconfont-wrapper {
   color: #ffffff !important;
@@ -2028,12 +2025,6 @@ a {
 .cid-uDfPneUwjs .navbar-dropdown {
   position: absolute !important;
 }
-@media (min-width: 992px) {
-  .cid-uDfPneUwjs .nav-dropdown {
-    margin-top: 2rem;
-    padding-bottom: 1rem;
-  }
-}
 .cid-uDfPneUwjs .navbar {
   min-height: 140px;
   transition: all 0.3s;
@@ -2258,6 +2249,11 @@ a {
 .cid-uDfPneUwjs .container {
   display: flex;
   margin: auto;
+}
+@media (min-width: 992px) {
+  .cid-uDfPneUwjs .container {
+    flex-wrap: nowrap;
+  }
 }
 .cid-uDfPneUwjs .iconfont-wrapper {
   color: #ffffff !important;
