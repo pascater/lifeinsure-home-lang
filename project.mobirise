@@ -51,7 +51,7 @@
         "url": "https://fonts.googleapis.com/css?family=Space+Grotesk:300,400,500,600,700"
       }
     ],
-    "imageResize": true,
+    "imageResize": false,
     "sitemapSwitcher": true,
     "siteUrl": "https://it.lifeinsure.ch",
     "sitemapSwitcherAuto": "on",
@@ -63,10 +63,10 @@
       "underlineLink": true,
       "text": "Continuando, accetti le nostre: <a href='privacy.html'>privacy</a>, <a href='cookie.html'>cookie policy</a> e <a href='termini-condizioni.html'>condizioni d'uso</a> a termini di legge."
     },
-    "lazyLoad": true,
+    "lazyLoad": false,
     "site_lang": "it",
     "favicon": false,
-    "mbrsiteDomain": "nmg9zapm2s",
+    "mbrsiteDomain": "o0slvt4nmu",
     "usedWebp": false,
     "cssOptimize": false,
     "pwa-switcher": false,
